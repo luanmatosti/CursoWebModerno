@@ -15,3 +15,17 @@ console.log(media.toFixed(2));
 console.log(media.toString(2));
 console.log(typeof media);
 console.log(typeof Number);
+
+let exp = Math.pow(2, 3) //base = 2   expoente = 3
+console.log(exp)
+
+let expo = 2 ** 3 //nova forma de exponencial
+console.log(expo)
+
+let base = 2
+base **= 3
+console.log(base)
+
+const fruits = ["Banana", "Orange", "Apple", "Mango"];
+console.log(fruits.includes("Manga"))
+//ECMAScript2016
